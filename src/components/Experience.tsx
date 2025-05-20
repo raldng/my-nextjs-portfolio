@@ -85,10 +85,10 @@ export default function Experience() {
           ))}
         </ol>
         <div className="mt-12">
-          <a className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300 font-semibold group/link text-base" href="Gerald Ng - Resume.pdf" target="_blank" rel="noreferrer noopener">
+          <a className="inline-flex items-baseline leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300 font-semibold group/link text-base" href="Gerald Ng - Resume.pdf" target="_blank" rel="noreferrer noopener">
             <span>View Full<span className="inline-block">&nbsp;Résumé</span></span>
           </a>
-          <a className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300 font-semibold group/link text-base ml-6" href="Testimonial_Gerald Ng.pdf" target="_blank" rel="noreferrer noopener">
+          <a className="inline-flex items-baseline leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300 font-semibold group/link text-base ml-6" href="Testimonial_Gerald Ng.pdf" target="_blank" rel="noreferrer noopener">
             <span>View<span className="inline-block">&nbsp;Accenture&nbsp;Testimonial</span></span>
           </a>
         </div>
