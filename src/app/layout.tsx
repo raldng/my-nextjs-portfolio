@@ -1,7 +1,6 @@
 // src/app/layout.tsx
 import './styles/globals.css'
 import type { Metadata } from 'next';
-import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Gerald Ng',
