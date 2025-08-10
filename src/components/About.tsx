@@ -7,7 +7,10 @@ export default function About() {
       </div>
       <div>
         <p className="mb-4">
-          I am a Software Developer with a strong background in web application development, currently focusing on specializing in OutSystems. I strive to optimize applications and integrate seamless solutions, with experience in back-end development, API optimization, and data analysis. I am passionate about creating systems that are intuitive and user-friendly, always aiming to improve performance and user experience through innovative technologies.
+          I’m an Application Developer with a strong background in operations and maintenance, where I work extensively on resolving support tickets for legacy systems. 
+          This hands-on experience has sharpened my ability to quickly diagnose issues, understand business priorities, and translate client needs into practical technical solutions.
+          By identifying opportunities for improvement, I’ve been able to design and develop system enhancements that streamline workflows, improve usability, and create lasting value for end users. 
+          My goal is always to bridge the gap between business needs and technology — ensuring every solution is both functional and user-friendly.
         </p>
       </div>
     </section>

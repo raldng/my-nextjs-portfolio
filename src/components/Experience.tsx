@@ -1,13 +1,22 @@
 // src/components/Experience.tsx
 const experiences = [
   {
+    title: 'Application Developer / Business Analyst',
+    company: 'Accenture',
+    companyUrl: 'https://www.accenture.com/sg-en',
+    period: '2025 — Present',
+    description: '',
+    badges: ['SQL', 'OutSystems','Jira'],
+    highlights: ['Project Involvements: JTC', '20+ Tickets Closed'],
+  },
+  {
     title: 'Back-End Developer / Business Analyst',
     company: 'Accenture',
     companyUrl: 'https://www.accenture.com/sg-en',
-    period: '2024 — Present',
+    period: '2024 — 2025',
     description: 'Significant contributions were made in OutSystems API optimization, resolving critical tickets, and leading extensive testing efforts. Post-go-live, significant amount of key issues were addressed, stabilizing production and improving efficiency. OutSystems modules were optimized, enhancing execution speed and resource utilization. Additionally, a major change request on API development was handled, ensuring seamless integration.',
     badges: ['SQL', 'OutSystems'],
-    highlights: ['3 Project Involvements', '42+ Tickets Closed'],
+    highlights: ['Project Involvements: MOE, NLB, Skillsfuture', '50+ Tickets Closed'],
   },
   {
     title: 'Murdoch University',
